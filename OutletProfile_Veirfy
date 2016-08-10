@@ -1,0 +1,54 @@
+{
+   "Keys":{
+      "OperationID":"new guid",
+      "PartitionKey":4,
+      "CreatedDate":"2016-08-10T19:22:39.434Z",
+      "AuditUserID":null,
+      "AuditImpersonatorUserID":null,
+      "ProcessStartDate":null,
+      "ProcessEndDate":null,
+      "ProcessCompletedFlag":false,
+      "OutletID":844,
+      "OutletProductTypeID":17,
+      "OutletTypeID":27,
+      "RecordType":"OutletVerify"
+   },
+   "Outlet":{
+      "OutletOutletTypeID":27,
+      "OutletStatusID":4,
+      "OutletPrimaryLanguageID":28,
+      "OutletName":"20/20 Magazine",
+      "OutletDMAID":58710,
+      "OutletPriorityID":1,
+      "OutletIndustryID":5,
+      "OutletNetworkID":null,
+      "OutletPrimarySubjectID":null,
+      "OutletResearchNotes":".",
+      "OutletEditorialProfile":"Monthly, optical trade publication from Jobson Medical Information LLC, which focuses on marketing, merchandising, and product information for eye care professionals, including opticians, optometrists, opthalmologists, technicians, wholesalers, laboratories, manufacturers and retailers.  Offers industry news and analysis, new products and fashion trends.  Circulation is over 50,000.",
+      "OutletCountryOfOriginID":54295,
+      "OutletEstablishedDate":null
+   },
+   "SubjectArray":null,
+   "AddendumArray":null,
+   "GroupArray":null,
+   "Product":null,
+   "NewsFocus":null,
+   "CoverageArray":null,
+   "ElectronicAddressArray":null,
+   "PhoneArray":null,
+   "AddressArray":null,
+   "LanguageArray":null,
+   "RelationsArray":null,
+   "AdvertisingArray":null,
+   "ResearchRequestWorkflow":null,
+   "BounceBackRequestWorkflow":null,
+   "PNCPQCPSC":null,
+   "RemoveOperationArray":null,
+   "MetaData":{
+      "NavToCompletedTabOnSave":true,
+      "InitialOutletName":"20/20 Magazine",
+      "ExistingOutletRelationIDs":[
+
+      ]
+   }
+}
